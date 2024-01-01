@@ -1,0 +1,187 @@
+class Inventory
+{
+    List<Item> inventory = new List<Item> ();
+    private int GenerateID()
+    {
+        return inventory.Count;
+    }
+    private void AddItem()
+    {
+        Console.WriteLine("Enter name of item : ");
+        int id = GenerateID();
+        string name = Console.ReadLine();
+        Console.WriteLine("Enter price of item : ");
+        Int128 price = Int128.Parse(Console.ReadLine());
+        Console.WriteLine("Enter quantity of item : ");
+        Int128 quantity = Int128.Parse(Console.ReadLine());
+        inventory.Add(new Item(id, name, price, quantity));
+    }
+    private void DisplayItems()
+    {
+        if(inventory.Count > 0) 
+        {
+            foreach (Item item in inventory)
+            {
+                Console.WriteLine("-------------------");
+                Console.WriteLine($"id : {item.id}\nName : {item.name}\nPrice : {item.Price}\nQuantity : {item.Quantity}");
+                Console.WriteLine("-------------------");
+            }
+        }
+        else
+        {
+            Console.WriteLine("inventory is Empty");
+        }
+    }
+    private void FindItem()
+    {
+        if (inventory.Count == 0)
+        {
+            Console.WriteLine("inventory is empty");
+            return;
+        }
+        Console.Write("Enter id of item you want to search : ");
+        int id = int.Parse(Console.ReadLine());
+        foreach(Item item in inventory)
+        {
+            if(item.id == id)
+            {
+                Console.WriteLine("-------------------");
+                Console.WriteLine($"id : {item.id}\nName : {item.name}\nPrice : {item.Price}\nQuantity : {item.Quantity}");
+                Console.WriteLine("-------------------");
+                return;
+            }
+        }
+        Console.WriteLine("Item not found:(");
+    }
+    private void UpdateItem()
+    {
+        if(inventory.Count == 0)
+        {
+            Console.WriteLine("inventory is empty");
+            return;
+        }
+        Console.Write("Enter id of item you want to update : ");
+        int id = int.Parse(Console.ReadLine());
+        foreach (Item item in inventory)
+        {
+            if (item.id == id)
+            {
+                Console.Write("Enter name to be updated : ");
+                item.name = Console.ReadLine();
+                Console.Write("Enter price to be updated :");
+                item.Price = Int128.Parse(Console.ReadLine());
+                Console.Write("Enter the quantitiy of item to be updated : ");
+                item.Quantity = Int128.Parse(Console.ReadLine());
+                Console.WriteLine("Item updated successfully:)");
+                Console.WriteLine("-------------------");
+                Console.WriteLine($"id : {item.id}\nName : {item.name}\nPrice : {item.Price}\nQuantity : {item.Quantity}");
+                Console.WriteLine("-------------------");
+                return;
+            }
+        }
+        Console.WriteLine("item with the id you have entered is not available!!");
+    }
+    private void DeleteItem()
+    {
+        if (inventory.Count == 0)
+        {
+            Console.WriteLine("inventory is empty");
+            return;
+        }
+        Console.Write("Enter id of item you want to delete : ");
+        int id = int.Parse(Console.ReadLine());
+        foreach(Item item in inventory)
+        {
+            if(item.id == id)
+            {
+                Console.WriteLine("Item deleted successfully!!");
+                Console.WriteLine("-------------------");
+                Console.WriteLine($"id : {item.id}\nName : {item.name}\nPrice : {item.Price}\nQuantity : {item.Quantity}");
+                Console.WriteLine("-------------------");
+                inventory.Remove(item);
+                return;
+            }
+        }
+        Console.WriteLine($"item with id {id} doesn't exist!!");
+    }
+    private void GetCount()
+    {
+        Console.WriteLine($"There are {inventory.Count} items in inventory");
+    }
+
+    private static void Main(string[] args)
+    {
+        Inventory inventory = new Inventory();
+        string choice;
+        do
+        {
+            Console.Write("Inventory Management System\n" +
+                "================================\n" +
+                "Select appropriate operation\n" +
+                "1)Add item\n" +
+                "2)Display items\n" +
+                "3)Find item\n" +
+                "4)Update item\n" +
+                "5)Delete item\n" +
+                "6)Get item count\n" +
+                "7)Exit\n" +
+                "Enter your choice :");
+            choice = Console.ReadLine();
+            switch (choice)
+            {
+                case "1":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Add item");
+                    inventory.AddItem();
+                    break;
+                case "2":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Display items");
+                    inventory.DisplayItems();
+                    break;
+                case "3":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Find item");
+                    inventory.FindItem();
+                    break;
+                case "4":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Update item");
+                    inventory.UpdateItem();
+                    break;
+                case "5":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Delete item");
+                    inventory.DeleteItem();
+                    break;
+                case "6":
+                    Console.WriteLine("-----------------");
+                    Console.WriteLine("Get count of items");
+                    inventory.GetCount();
+                    break;
+                case "7":
+                    Console.WriteLine("Exit");
+                    Environment.Exit(0);
+                    break;
+                default:
+                    Console.WriteLine("Please enter valid choice");
+                    break;
+            }
+        } while (choice != "7");
+    }
+}
+
+internal class Item
+{
+    public int id;
+    public string name;
+    public Int128 Price;
+    public Int128 Quantity;
+    public Item(int id,string name,Int128 price,Int128 quantity)
+    {
+        this.id = id;
+        this.name = name;
+        this.Price = price;
+        this.Quantity = quantity;
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\bin\Debug\net7.0\Prompt.exe
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\bin\Debug\net7.0\Prompt.deps.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\bin\Debug\net7.0\Prompt.runtimeconfig.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\bin\Debug\net7.0\Prompt.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\bin\Debug\net7.0\Prompt.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.csproj.AssemblyReference.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.AssemblyInfoInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.AssemblyInfo.cs
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\refint\Prompt.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\Prompt.genruntimeconfig.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Prompt\Prompt\obj\Debug\net7.0\ref\Prompt.dll

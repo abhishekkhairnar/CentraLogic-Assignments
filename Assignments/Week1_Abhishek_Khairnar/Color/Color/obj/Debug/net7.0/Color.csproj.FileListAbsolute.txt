@@ -1,0 +1,15 @@
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\bin\Debug\net7.0\Color.exe
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\bin\Debug\net7.0\Color.deps.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\bin\Debug\net7.0\Color.runtimeconfig.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\bin\Debug\net7.0\Color.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\bin\Debug\net7.0\Color.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.csproj.AssemblyReference.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.AssemblyInfoInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.AssemblyInfo.cs
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\refint\Color.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\Color.genruntimeconfig.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Color\Color\obj\Debug\net7.0\ref\Color.dll

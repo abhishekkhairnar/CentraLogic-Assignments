@@ -1,0 +1,15 @@
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\bin\Debug\net7.0\Greet.exe
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\bin\Debug\net7.0\Greet.deps.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\bin\Debug\net7.0\Greet.runtimeconfig.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\bin\Debug\net7.0\Greet.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\bin\Debug\net7.0\Greet.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.csproj.AssemblyReference.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.AssemblyInfoInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.AssemblyInfo.cs
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\refint\Greet.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\Greet.genruntimeconfig.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\Greet\Greet\obj\Debug\net7.0\ref\Greet.dll

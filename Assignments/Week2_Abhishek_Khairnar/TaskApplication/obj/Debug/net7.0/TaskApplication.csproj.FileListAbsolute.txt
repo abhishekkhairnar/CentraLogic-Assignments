@@ -1,0 +1,15 @@
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\bin\Debug\net7.0\TaskApplication.exe
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\bin\Debug\net7.0\TaskApplication.deps.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\bin\Debug\net7.0\TaskApplication.runtimeconfig.json
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\bin\Debug\net7.0\TaskApplication.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\bin\Debug\net7.0\TaskApplication.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.csproj.AssemblyReference.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.AssemblyInfoInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.AssemblyInfo.cs
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\refint\TaskApplication.dll
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.pdb
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\TaskApplication.genruntimeconfig.cache
+C:\Users\DARSHAN KHAIRNAR\source\repos\Console Apps\TaskApplication\TaskApplication\obj\Debug\net7.0\ref\TaskApplication.dll
